@@ -66,3 +66,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.student-card {
+  /* box-shadow: 0 0 10px rgb(214, 214, 214); */
+  border: 1px rgb(217, 217, 217) solid;
+  border-radius: 0.4em;
+  padding: 2em;
+  width: 20em;
+}
